@@ -1,2 +1,4 @@
 # RNGitHubList
-It's a serverless project for consume Github API, project from challenge bootcamp RocketSeat OMNI Stack
+It's a serverless project for consume Github API
+
+- Put your username and list your repositories and companies
